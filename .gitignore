@@ -1,11 +1,4 @@
 .ipynb_checkpoints/
 practica_breast_cancer.ipynb
 practica_iris.ipynb
-p4_henon-models_25.bin
-p4_henon-models_50.bin
-p4_henon-res_test_25.bin
-p4_henon-res_test_50.bin
-p4_henon-test_indices_25.bin
-p4_henon-test_indices_50.bin
-p4_henon-train_indices_25.bin
-p4_henon-train_indices_50.bin
+*.bin
